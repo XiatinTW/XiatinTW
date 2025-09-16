@@ -4,6 +4,13 @@
 
 ---
 
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bifi112537@gmail.com)
+- Gmail:bifi112537@gmail.com
+
+---
+
 ## 🌟 About Me
 
 - 🎶 熱愛設計音樂網站，目標打造像 YouTube Music 一樣的極致體驗
@@ -56,12 +63,6 @@
 - UI/UX 設計進階
 - 音樂網站互動體驗優化
 - 新的前端框架和設計工具
-
----
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bifi112537@gmail.com)
 
 ---
 
